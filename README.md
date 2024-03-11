@@ -3,4 +3,4 @@ Utilized IBM's Watson to create an interactive chatbot that identifies the conte
 
 Chatbot Demo Website: [GMO Detective Chatbot Demo Website](https://ericnguyen010.wixsite.com/gmo-detective).
 
-Intent and Responses Spreadsheet: [Intents Spreadsheet]([https://ericnguyen010.wixsite.com/gmo-detective](https://docs.google.com/spreadsheets/d/1GU1l9KUwNtbLUQ3uXVHxQ_X6YkE3OScWsHFmXozqZZA/edit#gid=0)https://docs.google.com/spreadsheets/d/1GU1l9KUwNtbLUQ3uXVHxQ_X6YkE3OScWsHFmXozqZZA/edit#gid=0).
+Intent and Responses Spreadsheet: [Intents Spreadsheet](https://docs.google.com/spreadsheets/d/1GU1l9KUwNtbLUQ3uXVHxQ_X6YkE3OScWsHFmXozqZZA/edit#gid=0).
